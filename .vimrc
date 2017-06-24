@@ -18,6 +18,7 @@ set nocompatible              " be iMproved, required
     Bundle 'sjl/badwolf'
     Bundle 'tomasr/molokai'
     Bundle 'easymotion/vim-easymotion'
+    "Bundle 'Valloric/YouCompleteMe'
     Bundle 'SirVer/ultisnips'
     Bundle 'honza/vim-snippets'
     call vundle#end()
